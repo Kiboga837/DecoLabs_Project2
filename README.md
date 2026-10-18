@@ -1,7 +1,7 @@
 # DecoLabs_Project2
 Supervised Learning: Fraud Detection Pipeline (Leak-Free, SMOTE + Imblearn)
 ### Process Highlight
-1. Loading the dataset and builds a binary target (see TARGET SETUP below).
+1. Loading the dataset and building a binary target.
 2. Showing the class imbalance and the "Accuracy Illusion" (dummy baseline).
 3. Doing a STRATIFIED 80/20 train/test split BEFORE any scaling / resampling.
 4. Building two imblearn Pipelines:
